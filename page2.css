@@ -1,0 +1,58 @@
+
+.div1{
+  background: #364156; 
+  padding: 10px; 
+  width: 75%; 
+  height: 500px; 
+  margin-left: auto; 
+  margin-right: auto; 
+  border-radius: 15px;
+  display: table;
+  position: relative;
+  vertical-align: middle;
+  z-index: 0;
+  padding-left: 30px;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+}
+
+.div2{
+  text-align: center; 
+  justify-content: center;
+  align-items: center;
+  font-size: 24px; 
+  border-radius: 15px;
+  display: table-cell;
+  margin-bottom: 10px;
+  padding-right: 20px
+}
+
+.spanPadding{
+  padding-left: 20px;
+}
+
+.spanPaddingEurope{
+  padding-left: 10px;
+}
+
+.spanPaddingAsia{
+  padding-left: 32px;
+}
+
+.spanPaddingAfrica{
+  padding-left: 21px;
+}
+
+.spanPaddingOceania{
+  padding-left: 1px;
+}
+
+.underText {
+  width: 100px; 
+  height: 100px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+

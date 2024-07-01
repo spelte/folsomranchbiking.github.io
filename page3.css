@@ -1,0 +1,70 @@
+.altBg{
+  background-color: #7D4E57;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.altBg2{
+  background-color: #D66853;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+}
+
+.mainBg{
+  background-color: #52796F;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.leftBox {
+    display: flex;
+}
+
+.leftBox2 {
+  height: 100px;
+  width: 400px;
+  background: #364156;
+  font-size: 30px;
+  text-align: center;
+  padding: 10px;
+  margin-left: 70%;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.rightBox2 {
+  height: 100px;
+  width: 100%;
+  background: #364156;
+  font-size: 30px;
+  text-align: center;
+  padding: 10px;
+  margin-left: 10%;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.infoBox2{
+  height: 100px;
+  width: 100%;
+  background: #364156;
+  font-size: 30px;
+  text-align: center;
+  padding: 10px;
+  margin-right: 50px;
+  padding-left: 20px
+}
+
+.margin:first-child {
+    margin-right: 20px;
+}
+
